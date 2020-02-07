@@ -1705,7 +1705,136 @@
 </p>
 </br>
 
-
+<p>Transform Filter in Android</p>
+<p>
+    <a href="TransformFilter.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Match Filter in Android</p>
+<p>
+    <a href="Match Filter in Android.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Portfolio App Master</p>
+<p>
+    <a href="PortfolioApp-master.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Android Fun Facts</p>
+<p>
+    <a href="android-fun-facts-github-master.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>SQLite Database File in Assets Folder with Customize Adapter (Android)</p>
+<p>
+    <a href="SQLite database file in assets folder with customize adapter.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Get Running Process List and Traffic Statistics in Android </p>
+<p>
+    <a href="get running process list and traffic statistics.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Android Feedback Example</p>
+<p>
+    <a href="FeedbackExample.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Read SMS in Android</p>
+<p>
+    <a href="read SMS in Android.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>ATOM, Modify HTML Input, Custom ListView, Splash Screen, Load Data in Background in Android</p>
+<p>
+    <a href="ATOM, modify HTML input, custom ListView, splash screen, load data in background.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Open a WebPage or a HTML Fragment in Your Application in Android</p>
+<p>
+    <a href="open a webpage or a HTML fragment in your application.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Android Custom Keyboard Application</p>
+<p>
+    <a href="Custom Keyboard for Android Devices.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Android 3D Transition Between ListView And ImageView</p>
+<p>
+    <a href="3D Transition Between ListView And ImageView.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Android Card Drawing Application</p>
+<p>
+    <a href="the card drawing app.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Android RSS Multicategory reader, Tab Layout Example</p>
+<p>
+    <a href="Android RSS Reader Multicategory reader, Tab Layout example.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Android Add Search Box Filter on Multiple SQLite Database Data </p>
+<p>
+    <a href="Android Add Search Box Filter on Multiple SQLite Database Data.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p> Android Alarm Demo Master </p>
+<p>
+    <a href="AlarmDemo-master.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p> Android Todo List Master </p>
+<p>
+    <a href="AndroidTodoList-master.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Android SQlite: Insert, Update, Delete, Query Demo</p>
+<p>
+    <a href="Insert, update, delete & query sqlite demo.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Android Offline Dictionary</p>
+<p>
+    <a href="offline dictionary.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>HangMan Game| CustomFont | Image From Web (Android Application)</p>
+<p>
+    <a href="3codes.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Android Simple Graphics Example</p>
+<p>
+    <a href="Android Simple Graphics Example.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Android Sqlite Spinner Example</p>
+<p>
+    <a href="Android Sqlite Spinner Example.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Android intent to share text via whatsapp</p>
+<p>
+    <a href="intent to share text via whatsapp.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Android Intro Slider</p>
+<p>
+    <a href="Intro Slider.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Search Intents in Android</p>
+<p>
+    <a href="search intents.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
+<p>Send Email in Android</p>
+<p>
+    <a href="AndroidJavaMail.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
 
 
 
