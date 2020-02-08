@@ -1832,6 +1832,10 @@
 </p>
 </br>
 
-
+<p>Android TutorialsPoint Offline Tutorial</p>
+<p>
+    <a href="Android-TutorialsPoint.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+</p>
+</br>
 
 
